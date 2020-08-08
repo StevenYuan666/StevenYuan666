@@ -1,5 +1,5 @@
 ### Hi there 👋
-### This is Steven, a beginner for programming. I'm form China and studying in Montreal right now.
+### This is Steven, a beginner for programming. I'm from China and studying in Montreal right now.
 ### - 🔭 I’m currently studing at McGill University, major in CS, and minor in both Maths and Stats ...
 ### - 🌱 I’m currently learning python, Java, Data Structure, Algorithms, System, 
 ### - 👯 I’m cooperating with my friends on some personal projects
