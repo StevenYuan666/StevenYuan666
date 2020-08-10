@@ -17,7 +17,7 @@
 ### Salut 👋
 ### Voici Steven, un débutant en programmation. Je viens de Chine et j'étudie à Montréal en ce moment.
 ### L'anglais, le chinois et le français sont tous acceptables pour moi.
-### - 🔭 J'étudie actuellement à l'Université McGill, majeure en CS et mineure en mathématiques et en statistiques ...
+### - 🔭 J'étudie actuellement à l'Université McGill, majeure en CS et mineure en mathématiques et en statistiques
 ### - 🌱 J'apprends actuellement python, Java, structure de données, algorithmes, système,
 ### - 👯 Je coopère avec mes amis sur des projets personnels
 ### - 🤔 Je recherche de l'aide sur les techniques de piratage et l'expérience des projets
