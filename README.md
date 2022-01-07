@@ -4,7 +4,7 @@
 ### 🔭 I’m the third year undergraduate student at McGill University majoring in Computer Science. 
 ### 🧐 My research interest is about the machine learning, more specifically the gaming design and the reinforcement learning. 
 ### 📧 If you have any question about my projects or have cooperation intention to me, feel free to contact me via email: ye.yuan3@mail.mcgill.ca
-### 💰 I'm seeking for part-time jobs opportunities or internship. Feel free to contact me as well.
+### 💰 I'm seeking for research opportunities or internship. Feel free to contact me as well.
 
 ### 👀 Here I listed some of my representative projects
 #### Machine Learning Related Projects Experience
