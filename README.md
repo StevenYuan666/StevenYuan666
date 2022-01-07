@@ -9,9 +9,13 @@
 ### 👀 Here I listed some of my representative projects
 #### Machine Learning Related Projects Experience
 Group Project, Words Guessing Chatbot 10/2021 – 12/2021 
+
 Methods Used: Raw Text Preprocessing, POS Tag, Decision Tree, RNN + LSTM, CNN
+
 • Extracted the features from pre-processed text
+
 • Tagged the part of speech of each word and trained various machine learning models
+
 • Conducted further research about the natural language understanding
 
 Group Project, Paper Reproduction 11/2021 – 12/2021 
