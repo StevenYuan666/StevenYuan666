@@ -7,7 +7,7 @@
 ### 💰 I'm seeking for research opportunities or internship. Feel free to contact me as well.
 
 ### 👀 Here I listed some of my representative projects
-#### Machine Learning Related Projects Experience
+### Machine Learning Related Projects Experience
 **Group Project, Words Guessing Chatbot _10/2021 – 12/2021_**
 
 **Group Project, Paper Reproduction _11/2021 – 12/2021_** 
@@ -24,7 +24,7 @@
 
 **Independent Project, Detecting the Sentiment of a Movie Review _09/2021_** 
 
-#### Other Computer Science Related Projects Experience
+### Other Computer Science Related Projects Experience
 **Group Project, AI Oriented Learning Website _05/2021 – Present_**
 
 **Independent Project, 3D Artificially Intelligent GOAP system _11/2021 – 12/2021_**
