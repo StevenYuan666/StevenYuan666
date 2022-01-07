@@ -8,11 +8,11 @@
 
 ### 👀 Here I listed some of my representative projects
 #### Machine Learning Related Projects Experience
-**Group Project, Words Guessing Chatbot 10/2021 – 12/2021**
+**Group Project, Words Guessing Chatbot _10/2021 – 12/2021_**
 
-**Group Project, Paper Reproduction 11/2021 – 12/2021** 
+**Group Project, Paper Reproduction _11/2021 – 12/2021_** 
 
-**Independent Project, Scratch Implementation of CYK algorithm 11/2021** 
+**Independent Project, Scratch Implementation of CYK algorithm _11/2021_** 
 
 **Group Project, Letters and Digits Recognition _11/2021_** 
 
