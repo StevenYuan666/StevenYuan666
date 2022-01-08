@@ -1,8 +1,8 @@
 # Hi there！ 嘿大家好！ Salut！
 ### 👋 This is Steven.
 ### 💬 English, Mandarin（中文), French（français) are all acceptable for me.
-### 🔭 I’m the third year undergraduate student at McGill University majoring in Computer Science. 
-### 🧐 My research interest is about the machine learning, more specifically the gaming design and the reinforcement learning. 
+### 🔭 I’m a third year undergraduate student at McGill University majoring in Computer Science. 
+### 🧐 My research interest is machine learning, more specifically the gaming design and the reinforcement learning. 
 ### 📧 If you have any question about my projects or have cooperation intention to me, feel free to contact me via email: ye.yuan3@mail.mcgill.ca
 ### 💰 I'm seeking for research opportunities or internship. Feel free to contact me as well.
 
