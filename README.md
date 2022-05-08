@@ -1,16 +1,20 @@
 # Hi there！ 嘿大家好！ Salut！
 ### 👋 This is Steven.
 ### 💬 English, Mandarin（中文), French（français) are all acceptable for me.
-### 🔭 I’m a third year undergraduate student at McGill University majoring in Computer Science. 
-### 🧐 My research interest is machine learning, more specifically the gaming design and the reinforcement learning. 
-### 📧 If you have any question about my projects or have cooperation intention to me, feel free to contact me via email: ye.yuan3@mail.mcgill.ca
+### 🔭 I’m an undergraduate student at McGill University majoring in Honorous Computer Science. 
+### 🧐 My research interest is machine learning, more specifically the AI in gaming design and the reinforcement learning. 
+### 📧 If you have any question about my projects or have cooperation intention to me, feel free to contact me via email: ye.yuan3ATmail.mcgill.ca
 ### 💰 I'm seeking for research opportunities or internship. Feel free to contact me as well.
 
 ### 👀 Here I listed some of my representative projects
 ### Machine Learning Related Projects Experience
+**Group Project, Model Based Training and Model-Free Fine Tune with PPO for Mujoco _03/2022 – 04/2022_**
+
+**Independent Project, Bandit Algorithm Analysis _01/2022 – 02/2022_**
+
 **Group Project, Words Guessing Chatbot _10/2021 – 12/2021_**
 
-**Group Project, Paper Reproduction _11/2021 – 12/2021_** 
+**Group Project, Adaptive KNN Machine Translation Paper Reproduction _11/2021 – 12/2021_** 
 
 **Independent Project, Scratch Implementation of CYK algorithm _11/2021_** 
 
