@@ -8,8 +8,11 @@
 
 ### 🧐 My Research Experiences and Current Research:
 **Generalization of Multi-Agent Reinforcement Learning Algorithm _05/2022 – Present_**
+
 **Domain Adaptation For Human Activity Recognition(HAR) _01/2022 – Present_**
+
 **Network Load Balancing using Multi-Agent Reinforcement Learning _01/2022 – 05/2022_**
+
 **Survey on AI in Computer Game specialized in AI-AI and AI-Human Cooperation _01/2022 – 04/2022_**
 
 ### 👀 Here I listed some of my representative projects
