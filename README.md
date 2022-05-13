@@ -26,7 +26,7 @@
 
 **Group Project, Letters and Digits Recognition Based On ResNet and VGG _11/2021_** 
 
-**Group Project, Diabetes Prediction _10/2021_**
+**Group Project, Diabetes Prediction Based on Scratched Implementation of SGD _10/2021_**
 
 **Group Project, Fake News Detection _10/2021_** 
 
@@ -49,7 +49,7 @@
 
 **Independent Project, Language Compiler(Type Inference Engine) _11/2020 - 12/2020_**
 
-**Independent Project, Tank War Game (Brittle City) _06/2020 – 08/2020_** 
+**Independent Project, Tank War Game _06/2020 – 08/2020_** 
 
 **Independent Project, English and French to Braille Translator _10/2019 – 11/2019_**
 
