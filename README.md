@@ -2,7 +2,7 @@
 ### 👋 This is Steven.
 ### 💬 English, Mandarin（中文), French（français) are all acceptable for me.
 ### 🔭 I’m an undergraduate student in Honorous Computer Science at McGill University. 
-### 🧐 My research interest is machine learning, more specifically the AI in computer games and the reinforcement learning. 
+### 🧐 My research interest is machine learning (meta-learning, reinforcement learning), cryptography (zero-knowledge proof), and blockchain technology.
 ### 📧 If you have any question about my projects or have cooperation intention to me, feel free to contact me via email: ye.yuan3 AT mail DOT mcgill DOT ca
 ### 💰 I'm seeking for research opportunities or internship. Feel free to contact me as well.
 
