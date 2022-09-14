@@ -6,6 +6,11 @@
 ### 📧 If you have any question about my projects or have cooperation intention to me, feel free to contact me via email: ye.yuan3ATmail.mcgill.ca
 ### 💰 I'm seeking for research opportunities or internship. Feel free to contact me as well.
 
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=StevenYuan666&hide_rank=true&line_height=20&count_private=true&show_icons=true">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=StevenYuan666&layout=compact">
+</p>
+
 ### 🧐 My Research Experiences and Current Research:
 **Generalization of Multi-Agent Reinforcement Learning Algorithm _05/2022 – Present_**
 
