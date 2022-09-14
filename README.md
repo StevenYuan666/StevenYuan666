@@ -62,6 +62,4 @@
 **Independent Project, English and French to Braille Translator _10/2019 – 11/2019_**
 
 **Independent Project, Voting Analysis and Pandemic Data Analysis _10/2019 – 11/2019_**
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=StevenYuan666&layout=compact&theme=swift&repo=voting-system">
-</p>
+
