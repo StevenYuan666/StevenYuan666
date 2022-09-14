@@ -9,7 +9,6 @@
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=StevenYuan666&hide_rank=true&line_height=20&count_private=true&theme=swift&show_icons=true">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=StevenYuan666&layout=compact&theme=swift">
-  
 </p>
 
 ### 🧐 My Research Experiences and Current Research:
@@ -63,3 +62,6 @@
 **Independent Project, English and French to Braille Translator _10/2019 – 11/2019_**
 
 **Independent Project, Voting Analysis and Pandemic Data Analysis _10/2019 – 11/2019_**
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=StevenYuan666&layout=compact&theme=swift&repo=voting-system">
+</p>
