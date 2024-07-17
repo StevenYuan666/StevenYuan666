@@ -2,12 +2,13 @@
 ### 👋 This is Steven.
 ### 💬 English, Mandarin（中文), French（français) are all acceptable for me.
 ### 🔭 I’m a Second-Year Ph.D. student in Computer Science at McGill University. 
-### 🔭 I obtained my Bachelor of Science Degree in Honorous Computer Science at McGill University. 
+### 🔭 I obtained my Bachelor of Science Degree in Honorous Computer Science at McGill University and Quebec AI Institute-Mila. 
 
 
 ### 🧐 What truly captivates me is the potential of intelligent systems and generative modelling to assist humans. How can artificial intelligence accurately and flawlessly complete tasks assigned by humans? How can generative models capture the target distribution? How can generative models be applied for specific tasks? More specifically, my research is concentrated on (i) addressing the issue of out-of-distribution challenges in Offline Black Box Optimization through the use of proxy functions or conditional generative models, (ii) developing a foundational knowledge model, which involves using a neural network to represent knowledge, extracting information from unstructured text with language models, and filling in missing information in a knowledge base with diffusion models, as well as (iii) improve the efficiency of language model's inference with information compression or knowledge distillation.
 ### 💪 My greatest assets are my eagerness to learn new things, my curiosity to delve into uncharted territories, my drive to stay abreast of the latest developments, and my persistence to work hard.
 ### 🏭 Beyond academia, I collaborate closely with Microsoft Research Cambridge and Noah’s Ark Lab Montreal.
+### 📑 See my publications at [Google Scholar](https://scholar.google.ca/citations?view_op=list_works&hl=en&user=lemEc74AAAAJ&gmla=AP6z3OYNDbOsbW4-8ApnAN9ybuGn7vNyNW-SYXwvJheUANvwhgW_OFqNOhcTZqyWMyYt9i_kvMG1bbLw3a-y9M2-JoA9rl2o7OtTIDRvRa_29xg)
 
 
 
