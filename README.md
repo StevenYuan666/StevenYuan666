@@ -1,7 +1,7 @@
 # Hi there！ 嘿大家好！ Salut！
 ### 👋 This is Steven.
 ### 💬 English, Mandarin（中文), French（français) are all acceptable for me.
-### 🔭 I’m a Second-Year Ph.D. student in Computer Science at McGill University. 
+### 🔭 I’m a Third-Year Ph.D. candidate in Computer Science at McGill University. 
 ### 🔭 I obtained my Bachelor of Science Degree in Honorous Computer Science at McGill University and Quebec AI Institute-Mila. 
 
 
