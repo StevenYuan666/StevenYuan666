@@ -2,6 +2,8 @@
 ### 👋 This is Steven.
 ### 💬 English, Mandarin（中文), French（français) are all acceptable for me.
 ### 🔭 I’m a Third-Year Ph.D. candidate in Computer Science at McGill University and Quebec AI Institute-Mila. 
+### 🧑‍🏫 It's fortunate to be supervised by Professor [Xue (Steve) Liu](https://cs.mcgill.ca/~xueliu/site/intro.html).
+### 📅 It's fortunate to have Professor [Adriana Romero Soriano](https://sites.google.com/site/adriromsor/home) as my supervision committee member.
 ### 🔭 I obtained my Bachelor of Science Degree in Honorous Computer Science at McGill University. 
 
 
