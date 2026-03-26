@@ -1,6 +1,5 @@
 # Hi there！ 嘿大家好！ Salut！
-### 👋 This is Steven.
-### 💬 English, Mandarin（中文), French（français) are all acceptable for me.
+### 👋 This is Ye Yuan.
 ### 🔭 I’m a Fourth-Year Ph.D. candidate in Computer Science at McGill University and Quebec AI Institute-Mila. 
 ### 🧑‍🏫 It's fortunate to be supervised by Professor [Xue (Steve) Liu](https://cs.mcgill.ca/~xueliu/site/intro.html).
 ### 📅 It's fortunate to have Professor [Adriana Romero Soriano](https://sites.google.com/site/adriromsor/home) and Professor [Gintare Karolina Dziugaite](https://gkdz.org/) as my supervision committee member.
